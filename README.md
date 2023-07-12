@@ -1,16 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
 
-* Ruby version　ruby 2.7.8, Rails 7.0.6
+　ruby 2.7.8, Rails 7.0.6
 
-* System dependencies　windows 11
+　windows 11
 
-* Configuration
-  フリントエンド : html/css
+  フロントエンド : html/css
 
 * Database creation rails
 
