@@ -6,7 +6,7 @@
 
 　windows 11
 
-  フロントエンド : html/css
+  前端 : html/css
 
 * Database creation rails
 
@@ -14,7 +14,7 @@
 
 * How to run the test suite
 
-丸参考
+
 
 
 
